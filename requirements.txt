@@ -1,0 +1,5 @@
+discord
+termcolor
+colorama
+dearpygui
+pyperclip
